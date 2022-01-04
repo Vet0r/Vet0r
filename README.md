@@ -1,6 +1,6 @@
-### Olá meu Caro 👋
+### Olá 😄
 
-🕹️Amante de Jogos Digitais
+🕹️Amante de Jogos Digitais (O bolo era uma mentira)
 
 💚Estágiario da Nova Data
 
