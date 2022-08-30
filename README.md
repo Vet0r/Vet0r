@@ -1,9 +1,11 @@
 ### Olá 😄
 
-🕹️Amante de Jogos Digitais (O bolo era uma mentira)
+🕹️ Amante de Jogos Digitais (O bolo era uma mentira)
 
-💚Estágiario da Nova Data
+💚 Estágiario da Nova Data
 
-🍎Descobrindo novas coisas todos os dias
+📱 Desenvolvedor de apps em Flutter
 
-🧑🏽‍💻Apaixonado por programação
+🍎 Descobrindo novas coisas todos os dias
+
+🧑🏽‍💻 Apaixonado por programação
