@@ -2,9 +2,9 @@
 
 🕹️ Amante de Jogos Digitais (O bolo era uma mentira)
 
-💚 Estágiario da Nova Data
+💚 Desenvolvedor em Nova Data
 
-📱 Desenvolvedor de apps em Flutter
+📱 Desenvolvedor de aplicações móveis em Flutter
 
 🍎 Descobrindo novas coisas todos os dias
 
