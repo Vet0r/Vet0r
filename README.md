@@ -1,6 +1,6 @@
 ![Vetor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vet0r&show_icons=true&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vet0r&layout=compact&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vet0r&layout=compact&theme=chartreuse-dark&hide=javascript,html,css)
 
 🕹️ Amante de Jogos Digitais (O bolo era uma mentira)
 
